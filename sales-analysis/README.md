@@ -69,3 +69,17 @@ Interpreting data and communicating business insights
 Project Status
 
 Completed beginner-level spreadsheet analysis. Further projects will explore SQL and more advanced data analysis techniques.
+
+Key Findings
+
+Highest total profit: Nail polish generated 378 PLN in total profit from 42 units sold.
+
+Lowest profit margin: The face mask had the lowest profit margin at 30.8%, but its total profit was 210 PLN, so it was not the least profitable product.
+
+Sales growth scenario: Selling 50 units of nail polish at the current profit of 9 PLN per unit would generate 450 PLN in total profit.
+
+Business Recommendation
+
+Based on the sales analysis, I recommend focusing on increasing the number of nail polish units sold while maintaining the current price.
+
+Nail polish generated the highest total profit among the analyzed products: 378 PLN from 42 units sold. A price increase should only be considered after researching customer demand and competitor prices, as its impact on sales volume and total profit is currently unknown.
