@@ -49,6 +49,29 @@ GROUP BY dzial;
 
 Grouped employees earning more than 1500 by department and counted the number of employees in each group.
 
+5. Analyzing Average Salaries by Department
+
+SELECT dzial, AVG(placa) AS srednia_placa
+FROM pracownicy
+GROUP BY dzial
+ORDER BY srednia_placa DESC;
+
+Calculated the average salary for each department and sorted departments from the highest average salary to the lowest.
+
+Key Findings
+
+The overall average salary was 1437.98.
+
+Department 10 had the highest average salary: 1778.20.
+
+Department 25 had the lowest average salary: 1273.79.
+
+The difference between the highest and lowest departmental averages was 504.41.
+
+Business Insights
+
+Average salaries varied across departments. Further analysis of employee counts and job positions could help explain these differences.
+
 Skills Demonstrated
 
 SELECT
