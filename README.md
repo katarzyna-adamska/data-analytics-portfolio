@@ -23,9 +23,10 @@ A practical project focused on analyzing product sales, calculating profit margi
 
 *Project files and findings will be added soon.*
 
-### 2. SQL Practice with the Chinook Database
+### 2. Employee Data Analysis with SQL
 
-Learning to query a relational database and analyze data using SQL. Exercises include filtering, grouping, aggregate functions, and sorting results.
+The project includes queries used to explore employee data, analyze salaries and examine departments.
+The analysis includes identifying the lowest and highest salaries, filtering employees by salary and counting employees within departments.f
 
 **Tools:** SQLite, DB Browser for SQLite
 
